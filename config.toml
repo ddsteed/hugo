@@ -48,9 +48,10 @@ uglyURLs = true           # more info: https://gohugo.io/content-management/urls
   pageref = "/categories/"
 [[menu.main]]
   name = "关于"
-  weight = 50
+  weight = 30
   identifier = "about"
-  pageref = "/index-zh"
+  pageref = "/about/index-zh"
+
 #[[menu.main]]
 # name = "外部链接"
 # weight = 50
